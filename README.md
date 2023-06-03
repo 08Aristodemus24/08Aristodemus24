@@ -1,13 +1,13 @@
 <h1 align="center">Тепло приветствую тебя, мой друг, меня зовут/Warm greetings to you my friend, my name is Михайл/Michael</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am currently an aspiring computational psychologist and a passionate machine learning developer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=08aristodemus24&label=Profile%20views&color=0e75b6&style=flat" alt="08aristodemus24" /> </p>
 
 - 🔭 I’m currently working on [etl-phil-corpus-juris](https://github.com/08Aristodemus24/etl-phil-corpus-juris)
 
-- 🌱 I’m currently learning **Tensorflow, Deep Learning, Machine Learning, and Computational Psychology**
+- 🌱 I’m currently learning **Tensorflow, Deep Learning, Machine Learning, Computational Psychology, and Russian as a 3rd language**
 
-- 💬 Ask me about **Deep Learning, Machine Learning, and its Mathematics**
+- 💬 Ask me about **Deep Learning, Machine Learning, its Mathematics, and various philosophical concepts**
 
 - 📫 How to reach me **MichaelAveuc571@gmail.com**
 
