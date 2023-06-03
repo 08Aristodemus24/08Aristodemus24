@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15nKMMVPW9Yg99WZzHA0EiUpPrT9m_EWG/view?usp=drive_link](https://drive.google.com/file/d/15nKMMVPW9Yg99WZzHA0EiUpPrT9m_EWG/view?usp=drive_link)
 
-- ⚡ Fun fact **I'm also currently learning Russian. I'm also an existentialist**
+- ⚡ Fun fact **I'm currently learning Russian. I'm also an existentialist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
