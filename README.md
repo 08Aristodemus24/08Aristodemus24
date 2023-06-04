@@ -1,6 +1,5 @@
 <h1 align="center">Тепло приветствую тебя, мой друг, меня зовут/Warm greetings to you my friend, my name is Михайл/Michael</h1>
 <h3 align="center">I am currently a student specializing in machine learning engineering as well as an aspiring computational psychologist</h3>
-<img alt="matrix" width="max-width" src="https://i.gifer.com/3HeZ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=08aristodemus24&label=Profile%20views&color=0e75b6&style=flat" alt="08aristodemus24" /> </p>
 
