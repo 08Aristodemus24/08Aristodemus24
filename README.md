@@ -1,7 +1,7 @@
 <h1 align="center">Тепло приветствую тебя, мой друг, меня зовут/Warm greetings to you my friend, my name is Михайл/Michael</h1>
 <h3 align="center">I am currently a student specializing in machine learning engineering as well as an aspiring computational psychologist</h3>
-
 <img align="center" src="https://github.com/08Aristodemus24/08Aristodemus24/blob/master/matrix.gif" alt="michaelcueva" height="300" width="400" />
+
 
 - 🔭 I’m currently working on [etl-phil-corpus-juris](https://github.com/08Aristodemus24/etl-phil-corpus-juris)
 
@@ -50,13 +50,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">📊 Github Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=08Aristodemus24&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=08Aristodemus24&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=08Aristodemus24&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=08aristodemus24&show_icons=true&locale=en&layout=compact" alt="08aristodemus24" /></p>
 
-<h3 align="left">🏆 Github Trophies</h3>
-![](https://github-profile-trophy.vercel.app/?username=08Aristodemus24&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=08aristodemus24&show_icons=true&locale=en" alt="08aristodemus24" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=08Aristodemus24&icon=5&color=9)](https://visitcount.itsvg.in)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=08aristodemus24&" alt="08aristodemus24" /></p>
