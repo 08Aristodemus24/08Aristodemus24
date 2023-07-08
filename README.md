@@ -1,6 +1,6 @@
 <h1 align="center">Тепло приветствую тебя, мой друг, меня зовут/Warm greetings to you my friend, my name is Михайл/Michael</h1>
 <h3 align="center">I am currently a student specializing in machine learning engineering as well as an aspiring computational psychologist and immunologist</h3>
-<img align="center" src="https://github.com/08Aristodemus24/08Aristodemus24/blob/master/matrix.gif" alt="michaelcueva" style="max-width: 100%"/>
+<img align="center" src="https://github.com/08Aristodemus24/08Aristodemus24/blob/master/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif" alt="michaelcueva" style="max-width: 100%"/>
 
 
 - 🔭 I’m currently working on [etl-phil-corpus-juris](https://github.com/08Aristodemus24/etl-phil-corpus-juris)
