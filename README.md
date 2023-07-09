@@ -1,20 +1,17 @@
 <img align="center" src="https://github.com/08Aristodemus24/08Aristodemus24/blob/master/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif" alt="michaelcueva" style="max-width: 100%"/>
 <h1 align="center">Тепло приветствую тебя, мой друг, меня зовут/Warm greetings to you my friend, my name is Михайл/Michael</h1>
-<h3 align="center">I am currently a student specializing in machine learning engineering as well as an aspiring computational psychologist and immunologist</h3>
+<h3 align="center">I am currently a student specializing in Machine Learning Engineering as well as an aspiring computational Psychologist and Immunologist</h3>
 
 
 
 - 🔭 I’m currently working on [etl-phil-corpus-juris](https://github.com/08Aristodemus24/etl-phil-corpus-juris)
-
 - 🌱 I’m currently learning **Tensorflow, Deep Learning, Machine Learning, and concepts pertaining to Computational Psychology**
-
 - 💬 Ask me about **Deep Learning, Machine Learning, its Mathematics, and various philosophical concepts**
-
 - 📫 How to reach me **MichaelAveuc571@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/15nKMMVPW9Yg99WZzHA0EiUpPrT9m_EWG/view?usp=drive_link](https://drive.google.com/file/d/15nKMMVPW9Yg99WZzHA0EiUpPrT9m_EWG/view?usp=drive_link)
-
 - ⚡ Fun fact **I'm currently learning Russian. I'm also an existentialist**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -24,6 +21,8 @@
   <a href="https://fb.com/mig.cueva.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mig.cueva.7" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/michaelaveuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="michaelaveuc" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -49,12 +48,11 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
+
+
 <h3 align="left">Profile statistics:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=08Aristodemus24&layout=donut-vertical&theme=gotham&hide_border=false" alt="08aristodemus24" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=08aristodemus24&show_icons=true&theme=gotham&locale=en&hide_border=false" alt="08aristodemus24" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=08aristodemus24&theme=gotham&hide_border=false" alt="08aristodemus24" /></p>
-
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=08Aristodemus24&theme=gotham" alt="08aristodemus24" /></p>
 
