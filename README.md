@@ -50,11 +50,11 @@
 </p>
 
 <h3 align="left">Profile statistics:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=08Aristodemus24&layout=donut-vertical&theme=gotham" alt="08aristodemus24" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=08Aristodemus24&layout=donut-vertical&theme=gotham&hide_border=false" alt="08aristodemus24" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=08aristodemus24&show_icons=true&theme=gotham&locale=en" alt="08aristodemus24" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=08aristodemus24&show_icons=true&theme=gotham&locale=en&hide_border=false" alt="08aristodemus24" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=08aristodemus24&theme=gotham" alt="08aristodemus24" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=08aristodemus24&theme=gotham&hide_border=false" alt="08aristodemus24" /></p>
 
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=08Aristodemus24&theme=gotham" alt="08aristodemus24" /></p>
 
