@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on [etl-phil-corpus-juris](https://github.com/08Aristodemus24/etl-phil-corpus-juris)
-- 🌱 I’m currently learning **Tensorflow, Deep Learning, Machine Learning, and concepts pertaining to Computational Psychology**
+- 🌱 I’m currently learning **Tensorflow, Deep Learning, Machine Learning, and concepts pertaining to applying AI in the healthcare industry**
 - 💬 Ask me about **Deep Learning, Machine Learning, its Mathematics, and various philosophical concepts**
 - 📫 How to reach me **MichaelAveuc571@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/15nKMMVPW9Yg99WZzHA0EiUpPrT9m_EWG/view?usp=drive_link](https://drive.google.com/file/d/15nKMMVPW9Yg99WZzHA0EiUpPrT9m_EWG/view?usp=drive_link)
