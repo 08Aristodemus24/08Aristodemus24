@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [phil-jurisprudence-recsys](https://github.com/08Aristodemus24/phil-jurisprudence-recsys.git) and [LaRJ-Corpus](https://github.com/08Aristodemus24/LaRJ-Corpus.git)
+- 🔭 I’m currently working on [gen-personal-philo-text](https://github.com/08Aristodemus24/gen-personal-philo-text.git) and [lmc-eng-front](https://github.com/08Aristodemus24/lmc-eng-front.git)
 - 🌱 I’m currently learning **Tensorflow, Deep Learning, Machine Learning, and concepts pertaining to applying AI in the healthcare industry**
 - 💬 Ask me about **Deep Learning, Machine Learning, its Mathematics, and various philosophical concepts**
 - 📫 How to reach me **MichaelAveuc571@gmail.com**
