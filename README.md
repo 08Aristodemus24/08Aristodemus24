@@ -42,7 +42,8 @@
   <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/SNOW-cf55aa82.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="apache-airflow" width="40" height="40"/> </a> 
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="apache-spark" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
 <p align="center">
@@ -59,7 +60,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Profile statistics:</h3>
