@@ -1,13 +1,13 @@
 <img align="center" src="https://github.com/08Aristodemus24/08Aristodemus24/blob/master/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif" alt="michaelcueva" style="max-width: 100%"/>
 <h1 align="center">Тепло приветствую тебя, мой друг, меня зовут/Warm greetings to you my friend, my name is Михайл/Michael</h1>
-<h3 align="center">I am currently a student specializing in Machine Learning & Data Engineering. I aspire also one day to be a Computational Psychologist</h3>
+<h3 align="center">I am computer science major specializing in Data Analytics/Engineering. I aspire also one day to be a Computational Psychologist</h3>
 
 
 
-- 🔭 I’m currently working on [usd-php-ml-pipeline](https://github.com/08Aristodemus24/usd-php-ml-pipeline.git), and [eda-denoiser-stress-detector](https://github.com/08Aristodemus24/eda-denoiser-stress-detector)
-- 🌱 I’m currently learning **Snowflake, Apache-Airflow, Apache-Spark for Data Engineering applied to Big Data in Health Care**
+- 🔭 I’m currently working on [usd-php-ml-pipeline](https://github.com/08Aristodemus24/usd-php-ml-pipeline.git), and [chronic-disease-analyses](https://github.com/08Aristodemus24/chronic-disease-analyses)
+- 🌱 I’m currently learning **PowerBI, Excel, Snowflake, Apache-Airflow, Apache-Spark for Data Engineering/Analytics applied to Big Data in Health Care**
 - 💬 Ask me about **Deep Learning, Machine Learning, its Mathematics, and various philosophical concepts**
-- 📫 How to reach me **MichaelAveuc571@gmail.com**
+- 📫 How to reach me **larrymiguelcueva@gmail.com**
 - 📄 Know about my experiences [https://raw.githubusercontent.com/08Aristodemus24/project-alexander/master/client-side/src/boards/Larry_Miguel_R_Cueva_DE_CV.pdf](https://raw.githubusercontent.com/08Aristodemus24/project-alexander/master/client-side/src/boards/Larry_Miguel_R_Cueva_DE_CV.pdf)
 - ⚡ Fun fact **I'm currently learning Russian. I'm also an existentialist**
 - You can also visit my website at: https://project-alexander.vercel.app/
