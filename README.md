@@ -18,9 +18,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/michaelcueva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaelcueva" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/12556138/mig-rivera-cueva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mig rivera cueva" height="30" width="40" /></a>
-  <a href="https://kaggle.com/michaelcueva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="michaelcueva" height="30" width="40" /></a>
-  <a href="https://fb.com/mig.cueva.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mig.cueva.7" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/michaelaveuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="michaelaveuc" height="30" width="40" /></a>
 </p>
 
 
