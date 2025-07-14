@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on [usd-php-ml-pipeline](https://github.com/08Aristodemus24/usd-php-ml-pipeline.git), and [chronic-disease-analyses](https://github.com/08Aristodemus24/chronic-disease-analyses)
-- 🌱 I’m currently learning **PowerBI, Excel, Snowflake, Apache-Airflow, Apache-Spark for Data Engineering/Analytics applied to Big Data in Health Care**
-- 💬 Ask me about **Deep Learning, Machine Learning, its Mathematics, and various philosophical concepts**
+- 🔭 I’m currently working on [signal-gender-predictor](https://github.com/08Aristodemus24/signal-gender-predictor.git), and [home-receipt-analyses](https://github.com/08Aristodemus24/home-receipt-analyses)
+- 🌱 I’m currently learning **Azure Databricks, Azure Data Lake Storage, Azure Azure ML, PowerBI, Apache-Airflow, Apache-Spark, Apache-Kafka for Data Engineering/Analytics applied to Big Data in Health Care**
+- 💬 Ask me about **Data Engineering/Analytics, Deep Learning, Machine Learning, its Mathematics, and various philosophical concepts**
 - 📫 How to reach me **larrymiguelcueva@gmail.com**
 - 📄 Know about my experiences in my CV [here](https://raw.githubusercontent.com/08Aristodemus24/auto-job-app-sender/master/documents/simple/Larry_Miguel_R_Cueva_CV.pdf)
 - ⚡ Fun fact **I'm currently learning Russian. I'm also an existentialist**
