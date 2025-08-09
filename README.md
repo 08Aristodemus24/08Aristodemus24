@@ -52,6 +52,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://duckdb.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/08Aristodemus24/project-alexander/master/client-side/src/assets/mediafiles/duckdb.png" alt="duckdb" width="40" height="40"/> </a>
   <a href="https://motherduck.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/08Aristodemus24/project-alexander/master/client-side/src/assets/mediafiles/motherduck.png" alt="motherduck" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/08Aristodemus24/project-alexander/master/client-side/src/assets/mediafiles/docker compose.png" alt="docker compose" width="40" height="40"/> </a>
 </p>
 
 <h4 align="left">Client & Server Side Web Development:</h3>
