@@ -42,7 +42,7 @@
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="apache-airflow" width="40" height="40"/> </a> 
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="apache-spark" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a>
