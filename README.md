@@ -45,7 +45,7 @@
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="amazon-s3" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-us/products/storage/data-lake-storage" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/08Aristodemus24/project-alexander/master/client-side/src/assets/mediafiles/adl2.png" alt="amazon-s3" width="40" height="40"/> </a>
   <a href="https://www.databricks.com/product/azure" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_170295.png" alt="azure-databricks" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </p>
