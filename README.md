@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on ![forums-analyses](https://github.com/08Aristodemus24/forums-analyses.git) and ![stream-data-analyses](https://github.com/08Aristodemus24/stream-data-analyses.git)
+- 🔭 I’m currently working on [forums-analyses](https://github.com/08Aristodemus24/forums-analyses.git) and [stream-data-analyses](https://github.com/08Aristodemus24/stream-data-analyses.git)
 - 🌱 I’m currently learning **Azure Databricks, Azure Data Lake Storage, Azure Azure ML, DBT, Snowflake, Apache-Airflow, Apache-Spark, Apache-Kafka for Data Engineering/Analytics applied to Big Data in Health Care**
 - 💬 Ask me about **Data Engineering/Analytics, Deep Learning, Machine Learning, its Mathematics, and various philosophical concepts**
 - 📫 How to reach me **larrymiguelcueva@gmail.com**
